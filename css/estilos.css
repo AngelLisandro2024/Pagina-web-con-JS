@@ -1,0 +1,22 @@
+body {
+    padding-top: 5rem;
+}
+#pepe {
+    text-align:center;
+}
+nav.navbar {
+    background-color: rgb(21, 8, 8) !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+.nav-link:hover {
+    font-weight: bold !important;
+}
+h1 {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(28, 8, 8);
+    color: white;
+}
