@@ -1,4 +1,4 @@
-# 📰 Clickbait News Generator (JS Dynamic Web)
+# 📰 📰 Generador de Noticias Clickbait (JS Dynamic Web)
 
 Este proyecto es una aplicación web interactiva que utiliza **JavaScript Vanilla** para generar dinámicamente una interfaz de noticias con titulares aleatorios. Es un ejercicio avanzado de manipulación del DOM y lógica de programación.
 
