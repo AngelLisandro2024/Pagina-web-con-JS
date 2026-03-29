@@ -3,6 +3,13 @@
 Este proyecto es una aplicación web interactiva que utiliza **JavaScript Vanilla** para generar dinámicamente una interfaz de noticias con titulares aleatorios. Es un ejercicio avanzado de manipulación del DOM y lógica de programación.
 
 ---
+---
+
+## 🖥️ Vista Previa del Generador
+![Screenshot del Generador de Noticias](img/preview.png)
+
+---
+---
 
 ## 🚀 Funcionalidades Técnicas
 * **Generación Dinámica:** Uso de bucles `for` para renderizar contenido HTML desde el script.
