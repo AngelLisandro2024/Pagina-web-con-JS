@@ -6,7 +6,7 @@ Este proyecto es una aplicación web interactiva que utiliza **JavaScript Vanill
 ---
 
 ## 🖥️ Vista Previa del Generador
-![Screenshot del Generador de Noticias](img/preview.png)
+<img width="1280" height="720" alt="preview png" src="https://github.com/user-attachments/assets/2396ca04-baae-4b41-b323-ee45dfc70318" />
 
 ---
 ---
