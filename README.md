@@ -6,7 +6,8 @@ Este proyecto es una aplicación web interactiva que utiliza **JavaScript Vanill
 ---
 
 ## 🖥️ Vista Previa del Generador
-<img width="1280" height="720" alt="preview png" src="https://github.com/user-attachments/assets/2396ca04-baae-4b41-b323-ee45dfc70318" />
+<img width="1280" height="720" alt="Captura de pantalla (1128)" src="https://github.com/user-attachments/assets/66de7f03-7482-44ec-a49a-2ca99603ab62" />
+
 
 ---
 ---
